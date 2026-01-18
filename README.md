@@ -1,2 +1,3 @@
 ### Welcome!
-Feel free to look around! (but not too closely)
+
+I'm not here much anymore, check out https://git.dcooper.dev instead
